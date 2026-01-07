@@ -1,4 +1,4 @@
-# EC Synthetic Control
+# Event Causality Identification w/ Synthetic Control
 
 This repository contains the implementation of the approach discussed in [Event causality identification with synthetic control](https://aclanthology.org/2024.emnlp-main.103/).
 
